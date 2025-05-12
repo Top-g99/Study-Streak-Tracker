@@ -1,0 +1,11 @@
+StudyStreakTracker/
+├── src/
+│   ├── model/
+│   │   └── Streak.java
+│   ├── service/
+│   │   └── StreakService.java
+│   └── Main.java
+├── streak_data.txt
+├── README.md
+├── .gitignore
+└── LICENSE
